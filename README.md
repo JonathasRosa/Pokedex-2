@@ -24,7 +24,7 @@ O desenvolvimento dessa aplicação foi em HTML5 e CSS3 para fazer a marcação 
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styles do projeto.
 * [Angular](https://angular.io/docs) - criar a interface do projeto.
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript para criar a lógica e animações do projeto.
-* [API]('https://pokeapi.co/api/v2/pokemon/?offset=0&limit=1000') - PokeApiService.
+* [API](https://pokeapi.co/api/v2/pokemon/?offset=0&limit=1000) - PokeApiService.
 ## 📌 Versão
 
 Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/Pokedex-2).
